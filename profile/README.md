@@ -10,6 +10,6 @@ Play, Engage, Learn, Work, Earn and Grow
 
 Our GitHub Pages sites are designed to help you better navigate our documentation and open source tooling in a more intuitive and simplified way. Check them out below:
 
-[https://unreal-kingdoms.github.io/Creator-Documentation/](https://unreal-kingdoms.github.io/Creator-Documentation/)
-[https://unreal-kingdoms.github.io/Player-Documentation/](https://unreal-kingdoms.github.io/Player-Documentation/)
+[https://unreal-kingdoms.github.io/Creator-Documentation/](https://unreal-kingdoms.github.io/Creator-Documentation/) \
+[https://unreal-kingdoms.github.io/Player-Documentation/](https://unreal-kingdoms.github.io/Player-Documentation/) \
 [https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/](https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/)
