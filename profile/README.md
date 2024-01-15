@@ -12,4 +12,4 @@ Our GitHub Pages sites are designed to help you better navigate our documentatio
 
 [https://unreal-kingdoms.github.io/Creator-Documentation/](https://unreal-kingdoms.github.io/Creator-Documentation/) \
 [https://unreal-kingdoms.github.io/Player-Documentation/](https://unreal-kingdoms.github.io/Player-Documentation/) \
-[https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/](https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/)
+[https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit/](https://unreal-kingdoms.github.io/UE-Game-Build-Toolkit-Community-Edition/)
